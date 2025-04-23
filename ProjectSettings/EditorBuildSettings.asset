@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00_Scenes/TeamLogo.unity
+    guid: 7abe05ba668ff55409049af948255bf2
+  - enabled: 1
+    path: Assets/00_Scenes/Title.unity
+    guid: d1c2533c37e7fb74fbc99f23a610a187
+  - enabled: 1
+    path: Assets/00_Scenes/Dawn/Dawn_CutScene.unity
+    guid: 28de04ee20f6fd0468f82b892e67806e
+  - enabled: 1
+    path: Assets/00_Scenes/Dawn/Dawn.unity
+    guid: 28b8c61c3d6e2d147a454c59c5ea52d9
+  - enabled: 1
+    path: Assets/00_Scenes/Dawn/DawnInside.unity
+    guid: d01805212ef5aae47ad92c17523c8956
+  - enabled: 1
+    path: Assets/00_Scenes/stage01_Bamboo/Bamboo_01.unity
+    guid: 15d415405128fc046ac439ce66de3f84
+  - enabled: 1
+    path: Assets/00_Scenes/stage01_Bamboo/Bamboo_02.unity
+    guid: 1b7c74dac2e07cd4197493ce2df805ac
+  - enabled: 1
+    path: Assets/00_Scenes/stage01_Bamboo/Bamboo_03.unity
+    guid: 55c65e1940db0fe49996e718c3728236
+  - enabled: 1
+    path: Assets/00_Scenes/stage01_Bamboo/Bamboo_04.unity
+    guid: 910d91c2d94b8524ead27c788595d80a
+  - enabled: 1
+    path: Assets/00_Scenes/stage01_Bamboo/Bamboo_05.unity
+    guid: 59e7b5fcfdd8f134ba7f533a03c2450d
+  - enabled: 1
+    path: Assets/00_Scenes/stage01_Bamboo/Bamboo_CutScene.unity
+    guid: 80baa73a08749a049ae54b8e32bff059
+  - enabled: 1
+    path: Assets/00_Scenes/stage01_Bamboo/Bamboo_Boss.unity
+    guid: 9c0e61fc054689b42bb2032d964046f9
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_01.unity
+    guid: 518263578e0785942a397474a2b9768e
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_02.unity
+    guid: 2db34c7e0cebc8344bd5c7640ef4b6cd
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_03.unity
+    guid: 8cc5fd57666b2ad48b1fda864196f6c1
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_04.unity
+    guid: f2b32c0e4de1d764a934b6007651de0f
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_05.unity
+    guid: d4ef10c2e03a7cd4bad530ac5def7b0d
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_06.unity
+    guid: a0ca41b33c389f14681c58f7878f7c69
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_07.unity
+    guid: 07f02341b7843d8479b5af95bb341697
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_08.unity
+    guid: 6a7ba7634a1daef41a6c55e6a0a068fb
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_09.unity
+    guid: 14d3da0fe2734c948ba4cc2c44712708
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_10.unity
+    guid: ec55ec3057befc84abf6cd1c89680155
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_CutScene.unity
+    guid: af6243ad2fa57354cb12f66ff79fb3bc
+  - enabled: 1
+    path: Assets/00_Scenes/stage02_Sakura/Sakura_Boss.unity
+    guid: 30525354153a6ac4baaa8304029950cb
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_01.unity
+    guid: 7d20ae4cf814df647b0db81114be7965
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_02.unity
+    guid: b5d997d62f8674a4fb007bfdb6d33003
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_03.unity
+    guid: 8965c8c2fa8ab7c4c8023ac7c9b85e95
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_04.unity
+    guid: f5384fde492be054895238e2c1dbc6b6
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_05.unity
+    guid: c0b397eb2ed6c444583ebcf43e4c1a85
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_06.unity
+    guid: 18da38c3e11038a4f87e58a2e6fbfd05
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_07.unity
+    guid: cb7dac28813f2ce448242e5ad8b91ff3
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_08.unity
+    guid: 4281a3909e78cdf4ebc161789612d3d3
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_09.unity
+    guid: b11319b0baddc5f49b92657ad674fe82
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_10.unity
+    guid: abfb1052c1537df4ba2a63e0fa0046ea
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_CutScene.unity
+    guid: fb05f3afcb59c584c8d48ca6303d96be
+  - enabled: 1
+    path: Assets/00_Scenes/stage03_Beach/Beach_Boss.unity
+    guid: 77f9a94395113114a80662f9f1a5c944
+  - enabled: 1
+    path: Assets/00_Scenes/stage04_Master/Master_CutScene.unity
+    guid: cea1bd4f43080ee48b1cc7a7a9ef9c41
+  - enabled: 1
+    path: Assets/00_Scenes/stage04_Master/Master_Boss.unity
+    guid: ce52f4b9f9773944ebec9a72e848a105
+  - enabled: 1
+    path: Assets/00_Scenes/Epilogue.unity
+    guid: 05c53990d0b58e8489f845ed351cbc57
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: c83cb6db0e05970468bb47d65d907266, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: d167f872ebe0dc24fbae58ec33193366, type: 2}

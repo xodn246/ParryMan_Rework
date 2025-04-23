@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Test_Dialogue_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4f8379e8a555b7e47a9fcaaadb5fce19, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17174757376
+    m_Localized: You're here...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305197613056
+    m_Localized: Master, why have you called me?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8764722905088
+    m_Localized: 'Listen carefully.
+
+      There is a great crisis coming to this
+      place.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8774906675200
+    m_Localized: Crisis?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8929542275072
+    m_Localized: 'As you know, we are an island unto ourselves.
+
+      without outside
+      interference.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9059314040832
+    m_Localized: 'But lately, we''ve been told that there are groups from outside
+
+      to
+      invade our culture.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9062229082112
+    m_Localized: The group is called the "Science Revival Society"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
